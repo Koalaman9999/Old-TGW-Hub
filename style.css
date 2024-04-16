@@ -123,6 +123,8 @@ footer {
   color: rgb(22, 22, 22);
 }
 
+@media screen and (max-width: 767px) {
+
   html {
     font-size: 100%;
     margin: 0;
