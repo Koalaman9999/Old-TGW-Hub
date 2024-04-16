@@ -1,6 +1,8 @@
-@font-face {
-  font-family: MPLUS2;
-  src: url(.\MPLUS2-VariableFont_wght.ttf) format(truetype);
+:root {
+  font-family: "M PLUS 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
 
 html {
