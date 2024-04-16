@@ -123,12 +123,6 @@ footer {
   color: rgb(22, 22, 22);
 }
 
-@media screen and (max-width: 767px) {
-  @font-face {
-    font-family: MPLUS2;
-    src: url(.\MPLUS2-VariableFont_wght.ttf) format(truetype);
-  }
-
   html {
     font-size: 100%;
     margin: 0;
