@@ -92,6 +92,11 @@ p {
   color: rgb(100, 155, 150);
 }
 
+.bold-hyperlinks {
+  color: rgb(100, 155, 150);
+  font-weight: bold;
+}
+
 footer {
   background-color: #b4b4b4;
   min-height: 200px;
