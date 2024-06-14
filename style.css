@@ -133,7 +133,9 @@ footer {
 .tgw-format ul li a:hover {
   color: rgb(22, 22, 22);
 }
-
+.copyright {
+    text-align: center;
+  }
 @media screen and (max-width: 767px) {
 
   html {
@@ -265,5 +267,8 @@ footer {
 
   .tgw-format ul li a:hover {
     color: rgb(22, 22, 22);
+  }
+  .copyright {
+    text-align: center;
   }
 }
