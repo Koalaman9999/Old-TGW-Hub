@@ -91,7 +91,18 @@ p {
 .hyperlinks a {
   color: rgb(100, 155, 150);
 }
-
+.jump-member {
+  max-width: fit-content;
+}
+.jump-member a p {
+  font-size: 120%;
+  font-weight: 1000;
+  text-decoration: underline;
+  transition: color 0.3s ease;
+}
+.jump-member a p:hover {
+  color: rgb(119, 119, 119);
+}
 footer {
   background-color: #b4b4b4;
   min-height: 200px;
@@ -213,6 +224,18 @@ footer {
     color: rgb(100, 155, 150);
   }
 
+  .jump-member {
+    max-width: fit-content;
+  }
+  .jump-member a p {
+    font-size: 120%;
+    font-weight: 1000;
+    text-decoration: underline;
+    transition: color 0.3s ease;
+  }
+  .jump-member a p:hover {
+    color: rgb(119, 119, 119);
+  }
   footer {
     background-color: #b4b4b4;
     min-height: 200px;
